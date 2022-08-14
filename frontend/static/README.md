@@ -1,0 +1,22 @@
+### Colors:
+![](../data/pallete1.png)
+```
+#524a4e;
+#fdeff4;
+#ffc0d3;
+#ff5c8d;
+```
+![](../data/pallete2.png)
+```
+#fff0f8;
+#ffc2e9;
+#cca2e1;
+#543e5c;
+```
+![](../data/pallete3.png)
+```
+#f3c5c5;
+#c1a3a3;
+#886f6f;
+#694e4e;
+```
