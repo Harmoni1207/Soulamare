@@ -1,5 +1,8 @@
 ![](frontend/static/img/favicon_32.png) Soulamare
 =========
+### It depends on everyone ...
+
+![](frontend/static/img/tree_500.png)
 
 **Note:** 
 Soulamare is webpage oriented for helping lost souls to improve: 
@@ -7,11 +10,6 @@ Soulamare is webpage oriented for helping lost souls to improve:
 Family life, friendships, spiritual side ... 
 
 Also we are open to learn something from you ... 
-
-### It depends on everyone ...
-
-![](frontend/static/img/tree_500.png)
-
 ### Run:
 ```bash
 docker-compose up build
