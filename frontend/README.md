@@ -27,24 +27,25 @@ docker rmi app --force
 ```
 ### Dev:
 ```
-npm run compile:sass
+npm run start     # Run live server and scss
+npm start         # --||--
 ```
 ### Colors:
 ![](static/img/pallete.png)
-```pallete
-#fdfbf7
-#fff0f8
-#ffc2e9
-#cca2e1
-#543e5c
+```scss
+$color-main-1: #fdfbf7;
+$color-main-2: #fff0f8;
+$color-main-3: #ffc2e9;
+$color-main-4: #cca2e1;
+$color-main-5: #543e5c;
 ```
 ![](static/img/tpallete.png)
-```text
-#adb5bd
-#868e96
-#495057
-#343a40
-#212529
+```scss
+$color-grey-1: #adb5bd;
+$color-grey-2: #868e96;
+$color-grey-3: #495057;
+$color-grey-4: #343a40;
+$color-grey-5: #212529;
 ```
 ###### [Links]():
 + ######

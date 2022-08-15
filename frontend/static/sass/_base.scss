@@ -1,19 +1,28 @@
+/* O1 TYPOGRAPHY SYSTEM
+--- FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+--- SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128*/
+
+
+
 // TODO COLOR VARIABLES
-$color-primary: #c69963;
-$color-primary-dark: #B28451;
+$color-main-1: #fdfbf7;
+$color-main-2: #fff0f8;
+$color-main-3: #ffc2e9;
+$color-main-4: #cca2e1;
+$color-main-5: #543e5c;
 
-$color-secondary: #101d2c;
-
-$color-grey-light-1: #f9f7f6;
-$color-grey-light-2: #aaa;
-
-$color-grey-dark-1: #54483A;
-$color-grey-dark-2: #6D5D4B;
+$color-grey-1: #adb5bd;
+$color-grey-2: #868e96;
+$color-grey-3: #495057;
+$color-grey-4: #343a40;
+$color-grey-5: #212529;
 
 // TODO FONT VARIABLES
 $font-primary: 'Nunito', sans-serif;
 $font-display: 'Josefin Sans', sans-serif;
-
+$font-logo: 'Lobster', cursive;
 // TODO RESPONSIVE BREAKPOINTS
 
 
@@ -35,7 +44,7 @@ html {
 
 body {
   font-family: $font-primary;
-  color: $color-grey-dark-2;
+  color: $color-grey-2;
   font-weight: 300;
   line-height: 1.6;
 }
