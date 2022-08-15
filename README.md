@@ -7,7 +7,7 @@ Also we are open to learn something from you ...
 
 ### It depends on everyone ...
 
-![](frontend/static/img/tree.png)
+![](frontend/static/img/tree_500.png)
 
 ### Run:
 ```bash
