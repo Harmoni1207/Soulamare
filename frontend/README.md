@@ -47,5 +47,7 @@ $color-grey-3: #495057;
 $color-grey-4: #343a40;
 $color-grey-5: #212529;
 ```
-###### [Links]():
-+ ######
+###### [Links:]()
+- [Open colors](https://yeun.github.io/open-color/) for text colors ...
+- [Colorhunt](https://www.colorhunt.co/) where color palette was chosen ...
+

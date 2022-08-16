@@ -1,0 +1,23 @@
+
+version: "3.8"
+
+volumes:
+  frontend:
+
+networks:
+  quart_network:
+
+services:
+
+  # FRONTEND
+  frontend-service:
+    container_name: frontend-service-c
+    networks:
+      quart_network:
+    build:
+      context: ./frontend
+    ports:
+      - "5000:5000"
+    volumes:
+      - frontend:/frontend
+    restart: always
