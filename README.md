@@ -1,8 +1,8 @@
 ![](frontend/static/img/favicon_32.png) Soulamare
 =========
 ### It depends on everyone ...
-
 ![](frontend/data/flowchart.svg)
+
 
 **Note:** 
 Soulamare is a website dedicated to helping lost souls get better:

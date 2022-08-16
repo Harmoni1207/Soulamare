@@ -2,8 +2,6 @@ Frontend
 ========
 **Note:** Soulamare frontend
 
-![](image.png)
-
 ### Venv: 
 ###### python3.9
 ```
