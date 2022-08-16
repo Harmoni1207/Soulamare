@@ -2,6 +2,7 @@
 =========
 ### It depends on everyone ...
 
+![](frontend/data/flowchart.svg)
 
 **Note:** 
 Soulamare is a website dedicated to helping lost souls get better:
