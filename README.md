@@ -5,16 +5,14 @@
 ![](frontend/static/img/tree_500.png)
 
 **Note:** 
-Soulamare is webpage oriented for helping lost souls to improve: 
-
+Soulamare is a website dedicated to helping lost souls get better:
 Family life, friendships, spiritual side ... 
 
-Also we are open to learn something from you ... 
+We are also open to learning from you ... 
 ### Run:
 ```bash
 docker-compose up build
 ```
-
 
 ###### [Links:]()
 - [Open colors](https://yeun.github.io/open-color/) for text colors ...
