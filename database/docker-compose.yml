@@ -1,0 +1,32 @@
+version: "3.8"
+
+volumes:
+  quart_app:
+
+networks:
+  quart_network:
+
+services:
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    networks:
+      quart_network:
+    ports:
+      - "9090:9090"
+    restart: always
+
+  quart_app-service:
+    container_name: quart_app-service
+    build:
+      context: .
+    networks:
+      quart_network:
+    ports:
+      - "5007:5007"
+    volumes:
+      - quart_app:/quart_app
+    restart: always
+    depends_on:
+      - prometheus

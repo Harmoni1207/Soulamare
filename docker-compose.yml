@@ -3,11 +3,24 @@ version: "3.8"
 
 volumes:
   frontend:
+  database:
 
 networks:
   quart_network:
 
 services:
+#  # DATABASE
+#  database-service:
+#    container_name: database-service-c
+#    networks:
+#      quart_network:
+#    build:
+#      context: ./database
+#    ports:
+#      - "5001:5001"
+#    volumes:
+#      - database:/database
+#    restart: always
 
   # FRONTEND
   frontend-service:
