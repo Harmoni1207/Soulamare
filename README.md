@@ -9,7 +9,7 @@ Family life, friendships, spiritual side ...
 We are also open to learning from you ... 
 
 ### Run:
-```bash
+```
 git clone https://github.com/Martin1403/Soulamare.git && \
 cd Soulamare && \
 docker-compose up --build && \
@@ -19,4 +19,4 @@ docker volume prune
 ```
 ###### Ctrl+C to exit.
 
-**Note:** In development ...
+**Note:** Ready to test but still in development, any ideas? Do not hesitate to contact...
