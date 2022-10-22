@@ -1,5 +1,5 @@
-![](frontend/static/img/favicon_32.png) Soulamare
-=========
+![](frontend/static/img/logo-raw-324.png)
+
 ### It depends on everyone ...
 ![](frontend/data/flowchart.svg)
 
