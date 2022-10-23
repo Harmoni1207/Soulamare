@@ -4,15 +4,15 @@ Soulamare Frontend
 ### Venv: 
 ###### python3.9
 ```
-python -m venv .venv && \
-source .venv/bin/activate && \
+python -m venv frontend/.venv && \
+source frontend/.venv/bin/activate && \
 pip install -U pip && \
-pip install -r requirements.txt
+pip install -r frontend/requirements.txt
 ```
 ### Run:
 ```
-source .venv/bin/activate && \
-export QUART_APP=app:app && \
+source frontend/.venv/bin/activate && \
+export QUART_APP=frontend/app:app && \
 export QUART_ENV=development && \
 quart run -h "127.0.0.1" -p 5000
 ```
@@ -24,8 +24,7 @@ docker rmi app --force
 ```
 ### Dev:
 ```
-npm run start     # Run live server and scss
-npm start         # --||--
+live-server
 ```
 ### Colors:
 ![](static/img/pallete.png)
@@ -47,6 +46,22 @@ $color-grey-5: #212529;
 ###### [Links:]()
 - [Open colors](https://yeun.github.io/open-color/) for text colors ...
 - [Colorhunt](https://www.colorhunt.co/) where color palette was chosen ...
+
+- **Notes:**
+
+## Branding
+Headline: For those in wisdom, to finding soul
+
+
+
+
+
+
+
+
+
+
+
 
 ### **Project description:**
 + #### Define the project:

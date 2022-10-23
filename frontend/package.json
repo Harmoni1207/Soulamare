@@ -4,9 +4,7 @@
   "description": "Soularamare frontend page",
   "main": "index.js",
   "scripts": {
-    "watch:sass": "node-sass static/sass/main.scss static/css/styles.css -w",
-    "devserver": "live-server",
-    "start": "npm-run-all --parallel devserver watch:sass"
+    "devserver": "live-server"
   },
   "author": "Martin Vajkuny",
   "license": "ISC"
