@@ -50,7 +50,7 @@ $color-grey-5: #212529;
 - **Notes:**
 
 ## Branding
-Headline: For those in wisdom, to finding soul
+Headline: For those in wisdom, to finding the soul
 
 
 
