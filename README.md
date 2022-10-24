@@ -18,6 +18,7 @@ docker-compose down && \
 docker rmi $(docker images --format="{{.ID}}" soulamare_*) --force && \
 docker volume prune
 ```
+
 ###### [localhost:5000](http://localhost:5000/)
 ###### Ctrl+C to exit.
 
