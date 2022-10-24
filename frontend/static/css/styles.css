@@ -8,7 +8,10 @@
 
 --- COLORS, SHADOWS, BORDER RADIUS
 --colors:
-primary:
+- Primary: #cca2e1;
+#555;
+#333;
+
 --border-radius:
 9px *
 --font-weight:
@@ -48,7 +51,15 @@ body {
 }
 
 .heading-primary {
+    font-size: 5.2rem;
+    font-weight: 700;
+    line-height: 1.05;
+    color: #333;
+}
 
+.hero-description {
+    font-size: 2rem;
+    line-height: 1.5;
 }
 
 .hero-img {
