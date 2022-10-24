@@ -1,5 +1,5 @@
 
-![](frontend/static/img/logo-raw-324.png)
+![](frontend/static/img/logo-raw-252.png)
 
 
 ### It depends on everyone ...
