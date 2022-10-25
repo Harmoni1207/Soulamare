@@ -31,7 +31,7 @@ live-server
 ```scss
 $color-main-1: #fdfbf7;
 $color-main-2: #fff0f8;
-$color-main-3: #ffc2e9;
+$color-main-3: #ffc2e9; 
 $color-main-4: #cca2e1;
 $color-main-5: #543e5c;
 ```
